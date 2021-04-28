@@ -1,0 +1,1 @@
+document.body.appendChild(function(){const t=document.getElementById("content");return t.textContent="great",t}());
